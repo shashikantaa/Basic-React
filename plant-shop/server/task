@@ -1,0 +1,16 @@
+1. create one folder as server
+2. then cd the folder
+3. npm init
+4. npm i
+5. npm i express
+6. npm i mongoose
+there are five methode like curd in mongo they are: 
+1.post:send,
+2.get:get,
+3.delete:delete,
+4.put:update,
+5.patch :small update 
+
+7.install (nodemon) not to restart again and again after editing in server(npm i -g nodemon)
+8.after installing nodemon run the code in (nodemon filename) instead of (node filename)
+9.In server folder there will be 5 folder:
