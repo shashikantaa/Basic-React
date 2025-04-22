@@ -1,0 +1,15 @@
+.nav1 {
+  background-color: black !important;
+}
+.navt {
+  padding-top: 8px;
+  color: white;
+  margin-left: 500px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.nav2 {
+  background-color: black !important;
+  height: 50px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}

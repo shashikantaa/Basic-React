@@ -1,0 +1,31 @@
+.container {
+  /* background-color: rgb(225, 207, 207); */
+  height: 550px;
+  border-radius: 3px;
+  padding: 4px;
+}
+/* carousel */
+
+.carousell {
+  height: 400px;
+  width: 700px;
+}
+.img {
+  height: 400px;
+}
+.conbine {
+  display: flex;
+  flex-direction: row;
+}
+/* Button */
+.book {
+  margin-left: 600px;
+  margin-top: 50px;
+  width: 200px;
+  height: 50px;
+  font-size: larger;
+  border-style: ridge;
+  border-color: black;
+}
+.book .hover {
+}

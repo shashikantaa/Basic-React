@@ -1,0 +1,49 @@
+Microsoft Windows [Version 10.0.22631.3155]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\shash\OneDrive\Desktop\basic_react> npm create vite@latest
+Need to install the following packages:
+create-vite@5.2.1
+Ok to proceed? (y) y
+√ Project name: ... es6
+? Select a framework: » - Use arrow-keys. Return to submit.
+? Select a framework: » - Use arrow-keys. Return to submit.
+? Select a framework: » - Use arrow-keys. Return to submit.
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\Users\shash\OneDrive\Desktop\basic_react\es6...
+
+Done. Now run:
+
+  cd es6
+  npm install
+  npm run dev
+
+
+C:\Users\shash\OneDrive\Desktop\basic_react>cd es6
+
+C:\Users\shash\OneDrive\Desktop\basic_react\es6>npm install
+
+added 275 packages, and audited 276 packages in 21s
+
+99 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\shash\OneDrive\Desktop\basic_react\es6>npm run dev
+
+> es6@0.0.0 dev
+> vite
+
+
+  VITE v5.1.5  ready in 331 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+11:03:24 am [vite] hmr update /src/App.jsx
+11:04:09 am [vite] hmr update /src/App.jsx (x2)
+11:06:29 am [vite] hmr update /src/App.jsx (x3)
+
